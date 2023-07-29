@@ -19,7 +19,7 @@ To run DataSmart locally on your machine, follow these steps:
 1. Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/your-username/DataSmart.git
+git clone [https://github.com/your-username/DataSmart.git](https://github.com/ibrahim-27/DataSmart.git)
 ```
 
 2. Navigate to the project directory:
