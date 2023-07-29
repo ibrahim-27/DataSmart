@@ -1,17 +1,16 @@
 # DataSmart - Data Finance React App Frontend
-
+DataSmart is a data finance React app frontend that aims to provide users with insightful financial data and analysis in a user-friendly interface. This app leverages React, React Hooks, React Props, Tailwind CSS, and other powerful tools to deliver a dynamic and efficient user experience.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Live Preview](#Live-Preview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Learning Outcome](#learning-outcome)
 
-## Introduction
-
-DataSmart is a data finance React app frontend that aims to provide users with insightful financial data and analysis in a user-friendly interface. This app leverages React, React Hooks, React Props, Tailwind CSS, and other powerful tools to deliver a dynamic and efficient user experience.
+## Live Preview
+Live preview at: https://ibrahim-27.github.io/DataSmart/
 
 ## Installation
 
