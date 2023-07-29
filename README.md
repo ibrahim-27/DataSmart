@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+# DataSmart - Data Finance React App Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies](#technologies)
+- [Learning Outcome](#learning-outcome)
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+DataSmart is a data finance React app frontend that aims to provide users with insightful financial data and analysis in a user-friendly interface. This app leverages React, React Hooks, React Props, Tailwind CSS, and other powerful tools to deliver a dynamic and efficient user experience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm test`
+To run DataSmart locally on your machine, follow these steps:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository from GitHub:
 
-### `npm run build`
+```bash
+git clone https://github.com/your-username/DataSmart.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. Navigate to the project directory:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+cd DataSmart
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+3. Install the dependencies:
 
-### `npm run eject`
+```bash
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Usage
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+After completing the installation steps, you can start the development server:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This will launch the app in your default web browser, and you can explore its features and functionality.
 
-## Learn More
+## Technologies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+DataSmart is built using the following technologies:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- React
+- React Hooks
+- React Props
+- Tailwind CSS
+- [react-typed](link_to_react_typed) *(for animated text)*
 
-### Code Splitting
+## Learning Outcome
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+While working on DataSmart, you will gain valuable experience and understanding in the following areas:
 
-### Analyzing the Bundle Size
+1. **React Development**: You will learn how to build a complete frontend application using React, a popular and powerful JavaScript library for building user interfaces.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+2. **React Hooks**: DataSmart utilizes React Hooks extensively for managing state and side-effects, allowing you to grasp the benefits of using hooks to create a cleaner and more maintainable codebase.
 
-### Making a Progressive Web App
+3. **Props and Component Communication**: You will gain insights into how to pass data and communicate between React components effectively using props.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+4. **Tailwind CSS**: DataSmart is styled using Tailwind CSS, which provides a utility-first approach to building responsive and visually appealing user interfaces.
 
-### Advanced Configuration
+5. **Animated Text with react-typed**: By incorporating the `react-typed` library, you will learn to add animated text and create typewriter-like text animations in your application, enhancing the overall user experience with dynamic content.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+With the knowledge gained from working on this project and engaging with the technologies mentioned above, you will be better equipped to tackle more complex React-based projects and understand the principles behind data finance applications.
