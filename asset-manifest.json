@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DataSmart/static/css/main.d5418575.css",
+    "main.js": "/DataSmart/static/js/main.f71a79df.js",
+    "static/media/laptop.jpg": "/DataSmart/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/DataSmart/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/partnership.png": "/DataSmart/static/media/partnership.8be045e6bb88be63d414.png",
+    "static/media/group.png": "/DataSmart/static/media/group.4eb8f19f4b4647321484.png",
+    "index.html": "/DataSmart/index.html",
+    "main.d5418575.css.map": "/DataSmart/static/css/main.d5418575.css.map",
+    "main.f71a79df.js.map": "/DataSmart/static/js/main.f71a79df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5418575.css",
+    "static/js/main.f71a79df.js"
+  ]
+}
